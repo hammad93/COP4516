@@ -1,0 +1,6 @@
+Assignment Options:
+1) One person gets to do the rest of the problem
+2) Volunteer to do the rest of the problem
+3) Team Programming option:
+	-1 person does the easiest option
+	-2 people do the hardest option
